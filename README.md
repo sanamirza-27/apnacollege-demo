@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first git repository.
-Author-Sana Mirza
+This is my First Git repository.
+<br>
+Author-Sana Mirza.
